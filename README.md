@@ -4,9 +4,9 @@ Required Projects and Tools:
 
 [Installation K6](https://k6.io/docs/get-started/installation/)
 
-[Project NodeJS Example Test](https://github.com/brenorodriguesdev/example-nodejs)
+[Nodejs Project Test Example](https://github.com/brenorodriguesdev/example-nodejs)
 
-[Project BunJs Example Test](https://github.com/brenorodriguesdev/example-bunjs)
+[Bunjs Project Test Example](https://github.com/brenorodriguesdev/example-bunjs)
 
 To run:
 
